@@ -1,6 +1,6 @@
 //TMForm 1.0.1
 $(window).load(function(){
-	$('ibrahim1996@gmail.com').TMForm({
+	$('#contact-form').TMForm({
 		recaptchaPublicKey:'6LeZwukSAAAAAG8HbIAE0XeNvCon_cXThgu9afkj'		
 	})
 })
