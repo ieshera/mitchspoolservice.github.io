@@ -252,7 +252,7 @@ regula.custom({
 })
 $(window).load(function(){
         $('#contact-form').TMForm({
-            ownerEmail:'#' 
+            ownerEmail:'ibrahim1996@gmail.com' 
         })
 
     })
