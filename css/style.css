@@ -60,7 +60,7 @@ h5 a:hover {
 #header h1 {
 	float: left;
 	padding-left: 40px;
-	background: url(../images/logo.png) 0 15px no-repeat;
+	/*background: url(../images/logo.png) 0 15px no-repeat;*/
 	color: #ffffff;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 35px;
