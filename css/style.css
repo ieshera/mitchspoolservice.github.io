@@ -637,7 +637,8 @@ p {
   margin-bottom: 45px;
 }
 .index-3 .block-1 p {
-  line-height: 20px;
+	line-height: 20px;
+	text-align: center;
 }
 .index-3 .block-2 {
   padding: 110px 0 70px;

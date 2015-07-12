@@ -192,6 +192,12 @@ table {
 .grid_4 {
   width: 370px;
 }
+.container .row .grid_4 {
+}
+.container .row .grid_4 {
+}
+
+
 .grid_3 {
   width: 270px;
 }
