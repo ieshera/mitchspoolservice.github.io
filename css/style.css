@@ -833,11 +833,18 @@ p {
   }
 }
 /*Core variables and mixins*/
+
+/*Under Contruction Code*/ 
 		#overlay {
-	background-image: url(../images/website_under_construction.png);
-	width: 100%;
-	height: 100%;
-	margin: 0px;
-	position: fixed;
-	z-index: 20;
+			background-image: url(../images/website_under_construction.png);
+			width: 100%;
+			height: 100%;
+			margin: 0px;
+			position: fixed;
+			z-index: 20;
 	}
+		
+	
+	
+ /*Under Contruction Code*/ 
+	
